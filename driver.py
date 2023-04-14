@@ -2,7 +2,7 @@ import Automold as am
 import Helpers as hp
 import cv2
 import math
-path='./image6.jpg'
+path='./home.jpg'
 images= hp.load_images(path)
 
 ##snowy_images= am.add_snow(images, snow_coeff=0.3) 
